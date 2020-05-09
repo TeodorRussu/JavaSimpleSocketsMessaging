@@ -1,0 +1,10 @@
+!**/src/main/**
+!**/src/test/**
+.properties
+
+
+.idea
+*.iws
+*.iml
+*.ipr
+
